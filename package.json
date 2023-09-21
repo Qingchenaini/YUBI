@@ -79,8 +79,6 @@
     "add": "^2.0.6",
     "cross-env": "^7.0.3",
     "eslint": "^8.34.0",
-    "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-unicorn": "^48.0.1",
     "express": "^4.18.2",
     "gh-pages": "^3.2.3",
     "husky": "^7.0.4",
