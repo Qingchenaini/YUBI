@@ -2,9 +2,9 @@
 /* eslint-disable */
 
 declare namespace API {
-  type CurrentUser = {
-    name?: string;
-    avatar?: string;
+  type currentUser = {
+    userName?: string;
+    userAvatar?: string;
     userid?: string;
     email?: string;
     signature?: string;
@@ -62,8 +62,8 @@ declare namespace API {
   };
 
   type LoginParams = {
-    username?: string;
-    password?: string;
+    userName?: string;
+    userPassword?: string;
     autoLogin?: boolean;
     type?: string;
   };

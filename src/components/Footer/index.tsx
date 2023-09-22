@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: '猴智能BI',
+          key: '猴智能BI2',
           title: '猴智能BI',
           href: 'https://ant.design',
           blankTarget: true,
